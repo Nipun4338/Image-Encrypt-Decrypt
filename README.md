@@ -5,6 +5,7 @@ A python based simple app for encrypt-decrypt images.
 Tkinter, Matplotlib, Numpy
 
 ### Version 1
+![](app1.gif)
 Encryption
 1. Read Image
 2. Convert it to png for better conversion.
@@ -17,6 +18,7 @@ Decryption
 3. Reshape to 3d numpy array and convert it to JPG.
 
 ### Version 2
+![](app2.gif)
 Encryption
 Same approach but replace all numbers with given character value.
 
