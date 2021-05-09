@@ -26,6 +26,8 @@ Decryption
 Same approach and demodify all numbers with given character value.
 Without encryption code, you cannot get the image!
 
+Visual: https://www.youtube.com/watch?v=yPLzv6kwsak
+
 
 
 
